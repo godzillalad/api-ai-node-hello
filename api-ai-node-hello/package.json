@@ -1,0 +1,13 @@
+{
+  "name": "api-ai-node-hello",
+  "version": "0.0.0",
+  "description": "API AI hello world",
+  "main": "app.js",
+   "dependencies": {
+    "apiai": "latest"
+  },
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": ""
+}
